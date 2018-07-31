@@ -1,3 +1,5 @@
+Información sobre el juego en [http://everball.net](http://everball.net).
+
 ## Requisitos previos
 * Node.js v10.0.0 o superior
 * npm 5.6.0 o superior
